@@ -22,13 +22,31 @@ This repository is a 2 month step-by-step daily plan to get a solid understandin
 
 # Table of Contents
 
-### WEEK 1 - FOUNDATIONS
+### WEEK 1 - Linux & Git
 - [ ] [Linux](#linux)
 - [ ] [Bash Scripting](#bash-scripting)
 - [ ] [Git Fundamentals](#git-fundamentals)
 - [ ] [Networking 101](#networking)
 - [ ] [HANDS-ON EXERCISE](#hands-on-exercise)
 
+### WEEK 2 - Docker & CI/CD
+- [ ] [Docker Basics](#docker-basics)
+- [ ] [Docker Compose](#docker-compose)
+- [ ] [Docker registries](#docker-registries)
+- [ ] [GHA Basics](#gha-basics)
+- [ ] [Build a pipeline that lints/tests containerized apps](#build-a-pipeline-that-lintstests-a-containerized-app)
+- [ ] [Push Image to DockerHub/Github container Registry](#push-docker-image-to-dockerhubgithub-container-registry)
+- [ ] [Containerized API & CI workflow mini roject](#containerized-api--ci-workflow-mini-project)
+
+### WEEK 3 - Terraform (IaC)
+- [ ] [Terraform Basics(providers, resources, variables](#linux)
+- [ ] [Provision computer + netowrking in AWS/GCP/Azure](#bash-scripting)
+- [ ] [Manage IAM & Secrets with Terraform](#git-fundamentals)
+- [ ] [Use modules + outputs](#networking)
+- [ ] [Mini-Project: Terraform a VPC + EC2/VM](#hands-on-exercise)
+- [ ] [Review + commit configs to GitHub]
+
+# Linux & Git
 ### Linux
 
 ### Bash Scripting
@@ -38,6 +56,21 @@ This repository is a 2 month step-by-step daily plan to get a solid understandin
 ### Networking 
 
 ### Hands On Exercise
+
+# Docker & CI/CD
+### Docker Basics
+
+### Docker Compose
+
+### Docker Registries
+
+### GHA Basics
+
+### Build a pipeline that lints/tests a containerized app
+
+### Push Docker image to DockerHub/Github Container registry
+
+### Containerized API & CI workflow mini project
 
 
 
