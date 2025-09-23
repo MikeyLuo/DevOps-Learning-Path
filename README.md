@@ -91,6 +91,7 @@ This repository is a 2 month step-by-step daily plan to get a solid understandin
   
 # Linux & Git
 ### Linux
+ - [Linux Upskill Challenge](https://linuxupskillchallenge.org/) - This was used as a guide to learn the skills required to sysadmin a remote Linux server from the command line
 
 ### Bash Scripting
 
