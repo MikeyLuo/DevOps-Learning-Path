@@ -1,5 +1,5 @@
 # DevOps-Learning-Path
-This repository is a 2 month step-by-step daily plan to get a solid understanding of everything DevOps from Foundations, to Kubernetes all the way to Reliability &amp; SRE. 
+This repository is a step-by-step daily plan to get a solid understanding of everything DevOps from Foundations, to Kubernetes all the way to Reliability &amp; SRE. The timeline I have given myself to complete this plan is 2 months.
 
 ## What is DevOps? What do DevOps developers do?
 - DevOps is a set of practices. It is a culture within a team or company. Many people are quick to define DevOps by lsiting off a laundry list of technologies but that's not correct at all. DevOps is the practice and those technologies are the tools that help us achieve a DevOps Environment.
