@@ -23,8 +23,8 @@ This repository is a step-by-step daily plan to get a solid understanding of eve
 # Table of Contents
 
 ### WEEK 1 - Linux & Git
-- [ ] [Linux](#linux)
-- [ ] [Bash Scripting](#bash-scripting)
+- [x] [Linux](#linux)
+- [x] [Bash Scripting](#bash-scripting)
 - [ ] [Git Fundamentals](#git-fundamentals)
 - [ ] [Networking 101](#networking)
 - [ ] [HANDS-ON EXERCISE](#hands-on-exercise)
