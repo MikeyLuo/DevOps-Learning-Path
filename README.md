@@ -22,194 +22,62 @@ This repository is a step-by-step daily plan to get a BETTER understanding of ev
 
 # Table of Contents
 
-### WEEK 1 - Linux & Git
-- [x] [Linux](#linux)
-- [x] [Bash Scripting](#bash-scripting)
-- [ ] [Git Fundamentals](#git-fundamentals)
-- [ ] [Networking 101](#networking)
-- [ ] [HANDS-ON EXERCISE](#hands-on-exercise)
+### Learn a Programming Language
+- For this learning path, I want to keep up with the current demands of common programming languages for a DevOps/SRE role. I narrowed the options down to Python and Go, and since I'm already familiar with Python, I have decided to learn Go throughout this learning path. 
+- [ ] [Golang](#learn-a-programming-language)
 
-### WEEK 2 - Docker & CI/CD
-- [ ] [Docker Basics](#docker-basics)
-- [ ] [Docker Compose](#docker-compose)
-- [ ] [Docker registries](#docker-registries)
-- [ ] [GHA Basics](#gha-basics)
-- [ ] [Build a pipeline that lints/tests containerized apps](#build-a-pipeline-that-lintstests-a-containerized-app)
-- [ ] [Push Image to DockerHub/Github container Registry](#push-docker-image-to-dockerhubgithub-container-registry)
-- [ ] [Containerized API & CI workflow mini project](#containerized-api--ci-workflow-mini-project)
+### Operating System
+- There was many OS to choose from all with great features and suport systems, but for this learning path I decided to stick with Linux (Ubuntu) mainly for a more user-friendly experience, a focus on ease of use specifically for system administration tasks.
+- [ ] [Linux(Ubuntu)](#linux)
 
-### WEEK 3 - Terraform (IaC)
-- [ ] [Terraform Basics(providers, resources, variables](#terraform-basics)
-- [ ] [Provision computer + netowrking in AWS/GCP/Azure](#provisioning-in-aws)
-- [ ] [Manage IAM & Secrets with Terraform](#manage-iam-secrets)
-- [ ] [Terraform modules + outputs](#terraform-modules)
-- [ ] [Mini-Project: Reusable Terraform infra (VM + VPC)](#mini-project)
-- [ ] [Review + commit configs to GitHub](#review-iac-repo-cleanup--reapply)
+### Terminal Knowledge
+- Here we are understanding how we can use terminal knowledge to help us interact with our system through something called a CLI (Command line interface).
+- [ ] [CLI](#terminal-knowledge)
 
-### WEEK 4 - Kubernetes (part 1)
-- [ ] [Kubernetes Basics (pods, deployments, services)](#kubernetes-basics)
-- [ ] [ConfigMaps & Secrets](#configmaps--secrets)
-- [ ] [Ingress controllers(Expose app)](#ingress-controllers)
-- [ ] [Helm Basics(Package chart)](#helm-basics)
-- [ ] [Helm advanced (values + install chart)](#helm-advanced)
-- [ ] [Deploy app to local cluster(Minikube/Kind)](#review-deploy-app-to-local-cluster)
+### Containers
+- 
+- [ ] [Docker](#containers)
 
-### WEEK 5 - Kubernetes (part 2) + GitOps
-- [ ] [GitOps (Flux Basics)](#flux-basics)
-- [ ] [Bootstrap GitOps repo (Sync manifests from Git)](#bootstrap-gitops-repo)
-- [ ] [Secrets Management (Sealed Secrets/SOPS)](#secrets-management)
-- [ ] [Cloud Basics (IAM + storage + VM (AWS)](#cloud-basics)
-- [ ] [GitOps on cloud cluster (deploy via Gitops to EKS/AWS)](#gitops-on-cloud-cluster)
-- [ ] [Review (Gitops repo drives deployment)](#review-gitops-repo-drives-deployment)
+---
 
-### WEEK 6 - Monitoring & Logging
-- [ ] [Prometheus Basics](#prometheus-basics)
-- [ ] [Grafana dashboards](#grafana-dashboards)
-- [ ] [Logging Stack (ELK)](#logging-with-elk)
-- [ ] [Alerts (Prometheus Alertmanager/Grafana alerts](#prometheus-alertmanager--grafana-alerts)
-- [ ] [Exporters](#exporters)
-- [ ] [Review (dashoards + alerts working](#review-dashboards--alerts-working)
+# Learn a Programming Language
+### Golang
+ - [A dedicated roadmap to learning Go](https://roadmap.sh/golang) - In this learning path, I will be using this roadmap to get a generalized understanding of how to programm in Go.
 
-### WEEK 7 - SRE & Reliability
-- [ ] [SLOs & SLIs](#slos--slis-define-service-objectives)
-- [ ] [Incident reponse basics](#incident-response)
-- [ ] [Postmortems](#postmortems)
-- [ ] [Chaos Testing](#chaos-testing-kill-pod-disrupt-cluster-observe-recovery)
-- [ ] [Runbooks & ops docs](#runbooks--ops-docs-write-operational-steps)
-- [ ] [Review (full SRE toolkit)](#review-full-sre-toolkit)
+- [ ] Language Basics
+- [ ] Data Types
+- [ ] Compostie Types
+- [ ] Methods & Interfaces
+- [ ] Error Handling
+- [ ] Code Organization
+- [ ] Testing & Benchmarking
+---
 
-### WEEK 8 - Capstone & Security
-- [Capstone Infra (Terraform cluster + DB)](#capstone-infra)
-- [Capstone CI/CD (pipeline builds & pushses image)](#capstone-cicd)
-- [Capstone deploy(Helm chart to cloud cluster](#capstone-deploy)
-- [Capstone GitOps (sync deploy froms Gt)](#capstone-gitops)
-- [Observability (dashboards + alerts for app)](#observability)
-- [Security Basics (scan Docker images(Trivy)](#security-basics)
-- [IaC security (tfsec/Checkov on Terraform code)](#iac-security)
-- [Documentation (README + diagrams of setup)](#documentation)
-- [Final demo (present full system)](#final-demo)
-  
-# Linux & Git
-### Linux
- - [Linux Upskill Challenge](https://linuxupskillchallenge.org/) - This was used as a guide to learn the skills required to sysadmin a remote Linux server from the command line
+# Linux
+### Linux Roadmap
 
-### Bash Scripting
+- [ ] Linux navigation & File management
+- [ ] Process & Resource Monitoring
+- [ ] Logs & System Health
+- [ ] Networking
+- [ ] Permissions & Ownerships
+- [ ] Shell scripting & Automation
+- [ ] Troubleshooting
+---
 
-### Git Fundamentals
+# Terminal Knowledge
+- [ ] Process Monitoring
+- [ ] Performance Monitoring
+- [ ] Networking Tools
+- [ ] Text Manipulation
+### Scripting
+- [ ] Bash
+### Editors
+- [ ] Vim/Nano
+---
 
-### Networking 
-
-### Hands On Exercise
-    ---
-
-# Docker & CI/CD
-### Docker Basics
-
-### Docker Compose
-
-### Docker Registries
-
-### GHA Basics
-
-### Build a pipeline that lints/tests a containerized app
-
-### Push Docker image to DockerHub/Github Container registry
-
-### Containerized API & CI workflow mini project
-    ---
-
-# Terraform (IaC)
-### Terraform Basics
-
-### Provisioning In AWS
-
-### Manage IAM Secrets
-
-### Terraform Modules 
-
-### Mini Project
-
-### Review (IaC repo cleanup & reapply)
-    ---
-
-# Kubernetes (part 1)
-### Kubernetes basics
-
-### ConfigMaps & Secrets
-
-### Ingress controllers
-
-### Helm basics
-
-### Helm advanced
-
-### Review (deploy app to local cluster)
-    ---
-
-# Kubernetes (part 2) + GitOps
-### Flux Basics
-
-### Bootstrap GitOps repo
-
-### Secrets management
-
-### Cloud basics
-
-### GitOps on cloud cluster
-
-### Review (GitOps repo drives deployment)
-    ---
-
-# Monitoring & Logging
-
-### Prometheus basics
-
-### Grafana dashboards
-
-### Logging with ELK
-
-### Prometheus Alertmanager & Grafana alerts
-
-### Exporters
-
-### Review (dashboards + alerts working)
-    ---
-
-# SRE & Reliability
-
-### SLOs & SLIs (define service objectives)
-
-### Incident response
-
-### Postmortems 
-
-### Chaos Testing (kill pod, disrupt cluster, observe recovery)
-
-### Runbooks & ops docs (write operational steps)
-
-### Review (full SRE toolkit)
-    ---
-
-# CAPSTONE & Security
-
-### Capstone infra 
-
-### Capstone CI/CD 
-
-### Capstone deploy
-
-### Capstone GitOps
-
-### Observability
-
-### Security basics
-
-### IaC security
-
-### Documentation
-
-## Final demo 
-
+# Containers
+- [ ] Docker
 
 
 
