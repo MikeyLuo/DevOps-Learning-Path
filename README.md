@@ -21,28 +21,31 @@ This repository is a step-by-step daily plan to get a BETTER understanding of ev
 
 
 # Table of Contents
-
-### Learn a Programming Language
-- For this learning path, I want to keep up with the current demands of common programming languages for a DevOps/SRE role. I narrowed the options down to Python and Go, and since I'm already familiar with Python, I have decided to learn Go throughout this learning path. 
-- [ ] [Golang](#learn-a-programming-language)
-
-### Operating System
-- There was many OS to choose from all with great features and suport systems, but for this learning path I decided to stick with Linux (Ubuntu) mainly for a more user-friendly experience, a focus on ease of use specifically for system administration tasks.
-- [ ] [Linux(Ubuntu)](#linux)
-
-### Terminal Knowledge
-- Here we are understanding how we can use terminal knowledge to help us interact with our system through something called a CLI (Command line interface).
-- [ ] [CLI](#terminal-knowledge)
-
-### Containers
-- 
-- [ ] [Docker](#containers)
-
+- [ ] [Learn a Programming Language](#learn-a-programming-language)
+- [ ] [Operating System](#operating-system)
+- [ ] [Terminal Knowledge](#terminal-knowledge)
+- [ ] [Version Control Systems](#version-control-systems)
+- [ ] [Containers](#containers)
+- [ ] [Network & Traffic Management](#network--traffic-management)
+- [ ] [Networking & Protocols](#networking--protocols)
+- [ ] [Cloud Providers](#cloud-providers)
+- [ ] [Serverless](#serverless)
+- [ ] [Provisioning](#provisioning)
+- [ ] [Configuration Management](#configuration-management)
+- [ ] [CI/CD Tools](#cicd-tools)
+- [ ] [Secret Management](#secret-management)
+- [ ] [Infrastructure Monitoring/Observability](#infrastructure-monitoringobservability)
+- [ ] [Logs Management](#logs-management)
+- [ ] [Container Orchestration](#container-orchestration)
+- [ ] [Artifact Management](artifact-management)
+- [ ] [GitOps](#gitops)
+- [ ] [Service Mesh](#service-mesh)
+- [ ] [Cloud Design Patterns](#cloud-design-patterns)
 ---
 
 # Learn a Programming Language
-### Golang
- - [A dedicated roadmap to learning Go](https://roadmap.sh/golang) - In this learning path, I will be using this roadmap to get a generalized understanding of how to programm in Go.
+### [Golang](https://roadmap.sh/golang) 
+- For this learning path, I want to keep up with the current demands of common programming languages for a DevOps/SRE role. I narrowed the options down to Python and Go, and since I'm already familiar with Python, I have decided to learn Go throughout this learning path. 
 
 - [ ] Language Basics
 - [ ] Data Types
@@ -53,9 +56,10 @@ This repository is a step-by-step daily plan to get a BETTER understanding of ev
 - [ ] Testing & Benchmarking
 ---
 
-# Linux
-### Linux Roadmap
-
+# Operating System
+### [Linux Roadmap](https://roadmap.sh/linux)
+- For this learning path, it was a no brainer choosing Linux (Ubuntu) as the OS, mainly because it supports a more user-friendly experience, and a focus on ease of use specifically for system administration tasks.
+  
 - [ ] Linux navigation & File management
 - [ ] Process & Resource Monitoring
 - [ ] Logs & System Health
@@ -66,6 +70,7 @@ This repository is a step-by-step daily plan to get a BETTER understanding of ev
 ---
 
 # Terminal Knowledge
+- Here we are understanding how we can use terminal knowledge to help us interact with our system through something called a CLI (Command line interface).
 - [ ] Process Monitoring
 - [ ] Performance Monitoring
 - [ ] Networking Tools
@@ -76,20 +81,92 @@ This repository is a step-by-step daily plan to get a BETTER understanding of ev
 - [ ] Vim/Nano
 ---
 
+# Version Control Systems
+- [ ] [Git](https://roadmap.sh/git-github)
+---
+
 # Containers
-- [ ] Docker
+- [ ] [Docker](https://roadmap.sh/docker)
+---
 
+# Network & Traffic Management
+- [ ] Forward Proxy
+- [ ] Reverse Proxy
+- [ ] Caching Server
+- [ ] Firewall
+- [ ] Load Balancer
+### Web Server
+- [ ] Nginx
+---
 
+# Networking & Protocols
+- [ ] DNS
+- [ ] HTTPS
+- [ ] HTTPS
+- [ ] SSL/TLS
+- [ ] SSH
+---
 
+# Cloud Providers
+- [ ] [AWS](https://roadmap.sh/aws)
+- [ ] [Azure](https://github.com/mikeroyal/Azure-Guide)
+---
 
+# Serverless
+- [ ] AWS Lambda
+- [ ] Cloudflare
+---
 
+# Provisioning
+- [ ] [Terraform](https://roadmap.sh/terraform)
+---
 
+# Configuration Management
+- [ ] Ansible
+---
 
+# CI/CD Tools
+- [ ] [GitHub Actions](https://octopus.com/devops/github-actions/?utm_source=roadmap&utm_medium=link&utm_campaign=devops-ci-cd-github-actions)
+- [ ] [Jenkins](https://octopus.com/devops/jenkins/jenkins-tutorial/?utm_source=roadmap&utm_medium=link&utm_campaign=devops-ci-cd-gitlab-ci)
+---
 
+# Secret Management
+- [ ] [HashiCorp Vault](https://github.com/hashicorp/vault)
+---
 
+# Infrastructure Monitoring/Observability
+- [ ] Prometheus
+- [ ] Grafana
+- [ ] Datadog
+---
 
+# Logs Management
+- [ ] Loki
+---
 
+# Container Orchestration
+- [ ] Kubernetes
+---
 
+# Artifact Management
+- [ ] Artifactory
+---
+
+# GitOps
+- [ ] [ArgoCD](https://argo-cd.readthedocs.io/en/stable/)
+---
+
+# Service Mesh
+- [ ] Istio
+- [ ] Consul
+---
+
+# Cloud Design Patterns
+- [ ] Availability
+- [ ] Data Management
+- [ ] Design and Implementation
+- [ ] Management and Monitoring
+---
 
 
 
