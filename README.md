@@ -21,30 +21,30 @@ This repository is a step-by-step daily plan to get a BETTER understanding of ev
 
 
 # Table of Contents
-- [ ] [Learn a Programming Language](#learn-a-programming-language)
-- [ ] [Operating System](#operating-system)
-- [ ] [Terminal Knowledge](#terminal-knowledge)
-- [ ] [Version Control Systems](#version-control-systems)
-- [ ] [Containers](#containers)
-- [ ] [Network & Traffic Management](#network--traffic-management)
-- [ ] [Networking & Protocols](#networking--protocols)
-- [ ] [Cloud Providers](#cloud-providers)
-- [ ] [Serverless](#serverless)
-- [ ] [Provisioning](#provisioning)
-- [ ] [Configuration Management](#configuration-management)
-- [ ] [CI/CD Tools](#cicd-tools)
-- [ ] [Secret Management](#secret-management)
-- [ ] [Infrastructure Monitoring/Observability](#infrastructure-monitoringobservability)
-- [ ] [Logs Management](#logs-management)
-- [ ] [Container Orchestration](#container-orchestration)
-- [ ] [Artifact Management](artifact-management)
-- [ ] [GitOps](#gitops)
-- [ ] [Service Mesh](#service-mesh)
-- [ ] [Cloud Design Patterns](#cloud-design-patterns)
+-  [Learn a Programming Language](#learn-a-programming-language)
+-  📂[Operating System](#operating-system)
+-  [Terminal Knowledge](#terminal-knowledge)
+-  [Version Control Systems](#version-control-systems)
+-  [Containers](#containers)
+-  [Network & Traffic Management](#network--traffic-management)
+-  [Networking & Protocols](#networking--protocols)
+-  [Cloud Providers](#cloud-providers)
+-  [Serverless](#serverless)
+-  [Provisioning](#provisioning)
+-  [Configuration Management](#configuration-management)
+-  [CI/CD Tools](#cicd-tools)
+-  [Secret Management](#secret-management)
+-  [Infrastructure Monitoring/Observability](#infrastructure-monitoringobservability)
+-  [Logs Management](#logs-management)
+-  [Container Orchestration](#container-orchestration)
+-  [Artifact Management](artifact-management)
+-  [GitOps](#gitops)
+-  [Service Mesh](#service-mesh)
+-  [Cloud Design Patterns](#cloud-design-patterns)
 ---
 
 # Learn a Programming Language
-### [Golang](https://roadmap.sh/golang) 
+### [👨‍💻Golang](https://roadmap.sh/golang) 
 - For this learning path, I want to keep up with the current demands of common programming languages for a DevOps/SRE role. I narrowed the options down to Python and Go, and since I'm already familiar with Python, I have decided to learn Go throughout this learning path. 
 
 - [ ] Language Basics
@@ -57,16 +57,16 @@ This repository is a step-by-step daily plan to get a BETTER understanding of ev
 ---
 
 # Operating System
-### [Linux Roadmap](https://roadmap.sh/linux)
-- For this learning path, it was a no brainer choosing Linux (Ubuntu) as the OS, mainly because it supports a more user-friendly experience, and a focus on ease of use specifically for system administration tasks.
-  
-- [ ] Linux navigation & File management
-- [ ] Process & Resource Monitoring
-- [ ] Logs & System Health
-- [ ] Networking
-- [ ] Permissions & Ownerships
-- [ ] Shell scripting & Automation
-- [ ] Troubleshooting
+### [🐧 Linux Roadmap](https://roadmap.sh/linux)
+- It was a no brainer choosing Linux (Ubuntu) as the OS for my learning path, mainly because it supports a more user-friendly experience, and a focus on ease of use specifically for system administration tasks.
+- [Security Concepts](https://overthewire.org/wargames/) - An interactive game to practice security concepts  
+- [x] Linux navigation & File management
+- [x] Process & Resource Monitoring
+- [x] Logs & System Health
+- [x] Networking
+- [x] Permissions & Ownerships
+- [x] Shell scripting & Automation
+- [x] Troubleshooting
 ---
 
 # Terminal Knowledge
