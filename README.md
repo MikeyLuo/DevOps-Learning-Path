@@ -1,11 +1,12 @@
-# DevOps-Learning-Path
-This repository is a step-by-step daily plan to get a BETTER understanding of everything DevOps from Foundations, to Kubernetes all the way to Reliability &amp; SRE. I am doing this just to refresh up on certain topics, going at my own pace following my own learning path.
+# 🔥 DevOps-Learning-Path
 
-## What is DevOps? What do DevOps developers do?
+A self cureated repo where everything here is learn by doing 🧰🛠️- building real skills rather than just read theory
+
+## 🤔 What is DevOps? What do DevOps developers do?
 - DevOps is a set of practices. It is a culture within a team or company. Many people are quick to define DevOps by lsiting off a laundry list of technologies but that's not correct at all. DevOps is the practice and those technologies are the tools that help us achieve a DevOps Environment.
 - It is a combination of thing's, it's a mix of the practices and tools used to increase the delivery and deployment of software. A DevOps team tries to simplify and automate each step in the software lifecycle just to make everything faster and give developers peace of mind during lifecycle steps.
   
-## What are the benefits of DevOps?
+## ✅ What are the benefits of DevOps?
 - Collaboration across teams (Devs, QA, etc.)
 - Improved delivery
 - Security
