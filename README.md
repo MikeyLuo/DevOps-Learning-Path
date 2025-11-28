@@ -98,9 +98,16 @@ A curated, raodmap-based collection of **free DevOps labs, challenges, and proje
 
 ## ☁️📊 Cloud & Monitoring
 #### 🎯 Learning Objectives - AWS basics, S3/EC2/VPC, logging, metrics, alerting, incident response
+#### i. Cloud
 - [Cloud is Free](https://cloudisfree.com/#/?id=homepage) - Deploy a static website, create a serverless sending application, and create and manipulate databases using containers
 - [Learn to Cloud](https://learntocloud.guide/) - Understand the fundamentals of cloud computing
 - [AWS Workshops](https://workshops.aws/) - Hands-on events, labs, and projects on AWS
+
+#### ii. Monitoring
+-  [Prometheus - Getting Started Lab](https://prometheus.io/docs/introduction/first_steps/) - You learn by running Prometheus locally
+-  [Prometheus + Grafana Stack](https://github.com/stefanprodan/dockprom) - A prebuilt monitoricing solution for Docker hosts and containers with Prometheus, Grafana, etc
+-  [Datadog](https://learn.datadoghq.com/) - Free, official hands-on Datadog workship with interactive labs
+-  [Datadpg Synthetic Monitoring](https://www.datadoghq.com/product/synthetic-monitoring/) - A proactive monitoring solution enabling you to monitor end-to-end user flows with browser tests
 ---
 
 ## ☸️ Container Orchestration
